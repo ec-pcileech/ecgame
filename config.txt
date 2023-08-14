@@ -4,4 +4,4 @@ aimbot::fov: 2.0
 aimbot::smooth: 4.0
 aimbot::vischeck: 0
 visuals::enabled: 1
-kmbox::enabled: 0
+kmbox::enabled: 1
