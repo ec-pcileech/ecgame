@@ -1,0 +1,7 @@
+aimbot::button: 111
+aimbot::head_button: 110
+aimbot::fov: 2.0
+aimbot::smooth: 4.0
+aimbot::vischeck: 0
+visuals::enabled: 1
+kmbox::enabled: 0
